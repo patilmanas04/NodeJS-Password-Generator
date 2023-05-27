@@ -5,7 +5,7 @@ This project is a random code generator implemented in Node.js.
 ## Features
 
 - Generates random codes with customizable length and character set.
-- Supports alphanumeric, numeric, or custom character sets for code generation.
+- Supports alphanumeric, numeric.
 - Provides a command-line interface (CLI) for easy usage and integration.
 - Can be used for generating unique identifiers, verification codes, passwords, and more.
 
